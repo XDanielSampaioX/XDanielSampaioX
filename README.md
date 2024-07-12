@@ -5,9 +5,9 @@
 ####  💻 E-mail gabiisctt@gmail.com
 <br>
 <div align="center">
-  <a href="https://github.com/GabrielaZanetti">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=GabrielaZanetti&show_icons=true&theme=radical"/>
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielaZanetti&layout=compact&theme=radical"/>
+  <a href="https://github.com/XDanielSampaioX">
+    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=XDanielSampaioX&show_icons=true&theme=radical"/>
+    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XDanielSampaioX&layout=compact&theme=radical"/>
   </a>
 </div>
 <br>
@@ -19,8 +19,8 @@
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabrielaZanetti/GabrielaZanetti/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GabrielaZanetti/GabrielaZanetti/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GabrielaZanetti/GabrielaZanetti/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/XDanielSampaioX/XDanielSampaioX/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/XDanielSampaioX/XDanielSampaioX/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/XDanielSampaioX/XDanielSampaioX/output/github-contribution-grid-snake.svg">
 </picture>
 <br><br>
