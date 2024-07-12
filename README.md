@@ -1,7 +1,7 @@
 ## Ola, me chamo Daniel Sampaio.
 ####  👩‍ 💻Sou desenvolvedor front-end
 ####  📚 Estou cursando Full-Stack developer - Digital College
-####  🖍 Estudando React Native / Dom
+####  🖍 Estudando React / Dom
 ####  💻 E-mail danielsampaio127@gmail.com
 <br>
 <div align="center">
