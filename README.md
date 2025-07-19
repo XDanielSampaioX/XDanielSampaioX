@@ -1,13 +1,12 @@
-## Ola, me chamo Daniel Sampaio.
-####  👩‍ 💻Sou desenvolvedor front-end
-####  📚 Estou cursando Full-Stack developer - Digital College
-####  🖍 Estudando React / Dom
-####  💻 E-mail danielsampaio127@gmail.com
+## Ola, sou Daniel Sampaio.
+####  👩‍ 💻Sou desenvolvedor back-end Java
+####  📚 Sou formado em Full-Stack developer - Digital College
+####  🖍 Atualmente aprofundando os estudos Java SpringBoot 
 <br>
 <div align="center">
   <a href="https://github.com/XDanielSampaioX">
     <img height="165em" src="https://github-readme-stats.vercel.app/api?username=XDanielSampaioX&show_icons=true&theme=radical"/>
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XDanielSampaioX&layout=compact&theme=radical"/>
+    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XDanielSampaioX&theme=radical"/>
   </a>
 </div>
 <br>
